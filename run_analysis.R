@@ -18,7 +18,7 @@ if (!file.exists("UCI HAR Dataset"))
 
 
 ########################################################################
-#Reading the data from the unzipped files
+#Reading the data files from the unzipped files
 ########################################################################
 
 #Train data
